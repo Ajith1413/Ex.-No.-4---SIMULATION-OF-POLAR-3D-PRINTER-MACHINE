@@ -27,7 +27,8 @@
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
 
 ## OUTPUT:
-image
+![image](https://github.com/Ajith1413/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139842524/2345ecad-1519-4543-8d7b-cbaf3dbf0e6f)
+
 
 ### Y-Axis Base :
 The base of the printer that supports the rest of the components
