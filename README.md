@@ -69,6 +69,9 @@ Melts and extrudes the filament to create the printed object.
 ### Filament :
 Material that is used to create the printed object.
 
+![image](https://github.com/Ajith1413/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139842524/b3f8a92d-6b7b-4c83-b013-9c1c9a1b5805)
+
+
 ## Output:
 ![image](https://github.com/Ajith1413/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139842524/eb1e9c33-e848-4e2a-b110-276ce63ba180)
 
